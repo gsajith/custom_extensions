@@ -1,0 +1,22 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "motivation.js" ]
+   },
+   "chrome_url_overrides": {
+      "newtab": "dashboard.html"
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "description": "Replace new tab page with Motivation",
+   "icons": {
+      "128": "icon-128.png",
+      "16": "icon-16.png",
+      "48": "icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmVZb0gulyiCWMWHO6mnnK/y9NtDziOZjgD90w1Xw6E/Ov414KCy2PIYPIRcjMIucjRKKd1JO60lTI3sv+nMbzWa69Y3XNjNaVPeUlLrCRsD2xETZ4rI1IpOGSkYxWbMDuAOpHRaxmLs13XmAq40Lpw4mlK9FRItCAD0WCIx0jI3BZBlKe2Sr+BzxlWqVzd/kOjoz8vgDqtP0V9jeNIB2CLQhUw1dSgI81DFbDChhaUhfkPqSksXcJlXHjwYbLW5i6/eDIGanJtcJnaA3gSLaYdsk+hsy+mDYXWqENC6GJEADxQEK0lmGV30hIJQ7c+yLQRQ4g+e2H+2qSRYrvvm3rQIDAQAB",
+   "manifest_version": 2,
+   "name": "Motivation",
+   "offline_enabled": true,
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.6"
+}

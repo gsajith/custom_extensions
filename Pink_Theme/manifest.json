@@ -1,0 +1,38 @@
+{
+   "description": "Custom theme matching Sublime Agila.",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlpJb649loNo9+YwwKSAESbegsVjfkM+PQ2o3qhfwk6evxmUfXnMJxmDrm+ShIB/txB3iRpp1SfSVO23OI7fEdxaxGMHxf20EppB6FShImjfE+I/gFSS+L2kPVC9qFAuGmcnHhm8Iquv5+ExHp22rbuAJNduRI8IUJjCkz8FitWCbe2FgY4SP7ZR7yvMr4CeigGxHLyCFBdoFBG7GOpFJXh/VQl6gGW2zXGMBlEACo+BM/6yo8exem5xjvW17imlHm9jA4Lhdfu86F8hK0ZDYkAuvG1MGr/PVV8adcpqUqrwdrsjN3mVVgQoNi9EYi29c2XCD7P45nE3wEFYos7NHqQIDAQAB",
+   "manifest_version": 2,
+   "name": "Sublime-Agila Chrome Theme",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 86,101,122 ],
+         "frame": [34,39,47],
+         "ntp_link": [ 182,187,195 ],
+         "ntp_section_link": [ 182,187,195 ],
+         "ntp_text": [ 182,187,195 ],
+         "tab_background_text": [ 99,104,106 ],
+         "ntp_background": [34,39,47],
+         "tab_text": [ 223,94,119 ],
+         "toolbar": [ 34,39,47 ],
+         "buttons": [0, 255, 0]
+      },
+      "images": {
+         "theme_button_background": "images/theme_button_background.png",
+         "theme_frame": "images/theme_frame.png",
+         "theme_frame_incognito": "images/theme_frame_incog.png",
+         "theme_tab_background": "images/theme_button_background.png",
+         "theme_toolbar": "images/theme_toolbar.png",
+         "theme_window_control_background": "images/theme_window_control_background.png"
+      },
+      "properties": {
+         "ntp_background_alignment": " center bottom",
+         "ntp_background_repeat": "repeat"
+      },
+      "tints": {
+         "buttons": [ 0.966, 0.9, 0.65 ],
+         "frame_inactive": [ 0.5833, 0.18, 0.435]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1"
+}

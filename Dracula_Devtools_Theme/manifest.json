@@ -1,0 +1,16 @@
+{
+   "content_security_policy": "script-src 'self' https://www.google-analytics.com; object-src 'self'",
+   "description": "Dracula is a dark theme for Atom, Alfred, Emacs, Highlight.js, iTerm, JetBrains, Pygments, Slack, Sublime Text and many more..",
+   "devtools_page": "devtools.html",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwRaqh4WQku9rtPaT6q3t6BlNKa4fyRMZ951tN9eu1KkYlsEccNLnVXEE1+mITtzGv6dx/h7JafLISqMThRH5tliENw5PdBgcduEgqF9v0ZXqrkVqrKfzvGMRZGJKw5jaR+inowwiOfsUoV4AEdZCHqkhJCPUT61I9fHIXpuJKiCW/Zl1UaYaRg/x4ANs9kjjPhlBNQbSMp8XvJjxOH5dOHmPTfe2PafBhLQV1fZxUO58gt8StvFl8/FjnQlMh8p7wOOkbI4223MsM+2agNvk5XTw24yWuW+/otI6YpxWMFBgglIIwMgQP2f7vOl2E2KxQnyBvfsxoVOBt0CdAAsrNwIDAQAB",
+   "manifest_version": 2,
+   "name": "Dracula DevTools Theme",
+   "short_name": "😱 A dark theme for Chrome DevTools",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.1"
+}
